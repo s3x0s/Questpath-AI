@@ -1,0 +1,6 @@
+{
+  "name": "RealQuest",
+  "description": "Learn by living real career scenarios, make high-stakes decisions, and receive guidance from your Future Self with interactive career timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
