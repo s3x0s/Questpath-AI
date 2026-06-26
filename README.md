@@ -94,8 +94,9 @@ npm run start
 
 ---
 
-### 📺 [Try it with this link!](https://realquest-152880807025.europe-west2.run.app/)
-### 🎥 📺 [Watch the Official Demo Video on YouTube!](https://youtu.be/bPYgBfl567s?si=HbUrzP7yXUf36nUz)
+## 🚀 Live Demo 🌟 Explore RealQuest
+🌐 **Try RealQuest Online:**(https://realquest-152880807025.europe-west2.run.app/)
+### 🎥 📺 [Watch the Official Demo Video on YouTube!](https://youtu.be/fvraG1p_IOk)
 
-
+💡 Discover career paths, complete assessments, and track your progress toward your future goals.
 *RealQuest — live your career before you build it.*
