@@ -83,12 +83,38 @@ npm run dev
 ```
 
 To run a production-ready build:
+# 🚀 RealQuest AI - Code Demo & Setup
 
+## 📂 Project Structure
+- `/src/app`: Next.js App Router pages (Homepage, Scenario, Assessment, Progress).
+- `/src/app/api/future-self`: The serverless API route that handles the OpenAI integration for the "Future Self" persona.
+- `/src/components`: Reusable UI components (CareerCard, RadarScoreChart, TimelineNode).
+- `/src/data`: The hardcoded JSON data for the 4 career paths and 20+ real-world scenarios.
+- `/src/lib`: Utility functions, including the mathematical scoring algorithm for the radar charts.
+
+## 🛠️ Tech Stack
+- **Framework:** Next.js 14 (TypeScript)
+- **Styling:** Tailwind CSS, Framer Motion
+- **AI:** OpenAI API (GPT-4)
+- **Charts:** Recharts
+
+## 🏃‍♂️ How to Run Locally (Code Demo Steps)
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/s3x0s/Questpath-AI.git
+   cd Questpath-AI
+
+2- Install dependencies# 1. Compile client assets and bundle Express backend to CommonJS
 ```bash
-# 1. Compile client assets and bundle Express backend to CommonJS
 npm run build
-
-# 2. Start compiled full-stack deployment
+```
+3- Set up Environment Variables:
+```bash
+OPENAI_API_KEY=your_openai_api_key_here
+```
+4- Run the development server
+```bash
 npm run start
 ```
 
